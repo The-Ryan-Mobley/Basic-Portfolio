@@ -1,3 +1,191 @@
-h1{
-    text-align: center;
+body{
+    background: url(../images/dark-honeycomb.png);
+    background-repeat: repeat;
+    
 }
+/*header for layout*/
+.top{
+    margin-top: -0.6%;
+    margin-left:-0.6%;
+    margin-right:-0.6%;
+    max-width: 100%;
+    overflow: fixed;
+    background-color: #ffffff;
+    padding: 3.5%;
+    border-bottom-width: 1%;
+    border-block-end-style: solid;
+    border-bottom-color: #cccccc; 
+}
+.Title{
+    
+    background-color: #4aaaa5;
+    
+    width: 35%;
+    text-align: center;
+    line-height: 2;
+    margin-top: -5%;
+    margin-left: 10%;
+    float: left;
+    color: #ffffff;
+    font-size: 55px;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    
+}
+
+.contactlink{
+    text-decoration: none;
+    background-color: ffffff;
+    color:#777777;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    position: relative;
+    
+  
+}
+#endcontact{
+    float:left;
+    
+    padding:5px 5px 5px 0px;
+    top: 0.6%;
+    right: -22%;
+    
+}
+#portlink{
+    float:left;
+    padding:5px 10px 5px 10px;
+    top: 0.6%;
+    right: -27%;
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-right-color:#cccccc
+
+}
+#aboutme{
+    float:left;
+    padding:5px 10px 5px 10px;
+    top: 0.6%;
+    right: -14%;
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-right-color:#cccccc
+
+}
+h1{
+    
+    background-color: black;
+    margin-top:-1%;
+    
+}
+/*about me page*/
+.bio{
+    min-height:100%;
+    margin-left:8%;
+    margin-right: 8%;
+    margin-bottom: -25px;
+    top: 105px;;
+    width: 960px;
+    overflow: auto;
+    clear: both;
+    position: relative;
+    top: -50%;
+    background-color: #ffffff;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+#abouttitle{
+    color:#4aaaa5;
+    background-color: #ffffff;
+    font-size: 50px;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    padding-left: 2%;
+    border-bottom-width: 1%;
+    border-bottom-style: solid;
+    border-bottom-color:#777777;
+    border-left-width: 4%;
+    border-left-style: solid;
+    border-left-color:#ffffff;
+    border-right-width: 4%;
+    border-right-style: solid;
+    border-right-color:#ffffff;
+
+}
+#profile{
+    float:left;
+    background-color: #ffffff;
+    padding: 1%;
+    transform: rotate(270deg);
+
+}
+#pgraph{
+    background-color: #ffffff;
+    text-align: left;
+    line-height: 1.8em;
+    color:#777777;
+
+}
+/*contact boxes*/
+.contact{
+    
+    background-color: #ffffff;
+    color:#777777;
+    padding-left:2%;
+}
+.smallbox{
+    width: 95%;
+
+}
+#message{
+    width: 95%;
+    height:100%;
+    
+}
+#button{
+    background-color: #4aaaa5;
+    color:#ffffff;
+    border-style: hidden;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-size: 25px;
+    padding:2%;
+    margin-bottom: 2%;
+}
+
+
+/*footer for layout*/
+.push{
+    height:25px;
+}
+.footer{
+    
+    height:11%;
+    margin-top: 10%;
+    margin-bottom:-1%;
+    margin-left:-1%;
+    margin-right:-1%;
+    bottom:0%;
+    /* margin: 0; */
+    
+    /* position: relative; */
+    /* height:10%; */
+    width: 102%;
+    background-color: #666666;
+    padding: 0.5%;
+    padding-top: 1%;
+    vertical-align: middle;
+    overflow:hidden;
+
+    border-top-width: 0.5em;
+    border-top-style: solid;
+    border-top-color:#4aaaa5;
+    min-height: 10%;
+    
+
+}
+#donotsteal{
+    
+   
+    background-color: #666666;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color:#ffffff;
+    text-align: center;
+    
+
+}
+
