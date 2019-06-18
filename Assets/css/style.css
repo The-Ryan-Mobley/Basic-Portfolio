@@ -17,9 +17,7 @@ body{
     border-bottom-color: #cccccc; 
 }
 .Title{
-    
     background-color: #4aaaa5;
-    
     width: 35%;
     text-align: center;
     line-height: 2;
@@ -29,25 +27,19 @@ body{
     color: #ffffff;
     font-size: 55px;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
-    
 }
-
 .contactlink{
     text-decoration: none;
     background-color: ffffff;
     color:#777777;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     position: relative;
-    
-  
 }
 #endcontact{
     float:left;
-    
     padding:5px 5px 5px 0px;
     top: 0.6%;
     right: -22%;
-    
 }
 #portlink{
     float:left;
@@ -57,7 +49,6 @@ body{
     border-right-width: 1px;
     border-right-style: solid;
     border-right-color:#cccccc
-
 }
 #aboutme{
     float:left;
@@ -67,13 +58,10 @@ body{
     border-right-width: 1px;
     border-right-style: solid;
     border-right-color:#cccccc
-
 }
 h1{
-    
     background-color: black;
     margin-top:-1%;
-    
 }
 /*about me page*/
 .bio{
@@ -107,37 +95,31 @@ h1{
     border-right-width: 4%;
     border-right-style: solid;
     border-right-color:#ffffff;
-
 }
 #profile{
     float:left;
     background-color: #ffffff;
     padding: 1%;
     transform: rotate(270deg);
-
 }
 #pgraph{
     background-color: #ffffff;
     text-align: left;
     line-height: 1.8em;
     color:#777777;
-
 }
 /*contact boxes*/
 .contact{
-    
     background-color: #ffffff;
     color:#777777;
     padding-left:2%;
 }
 .smallbox{
     width: 95%;
-
 }
 #message{
     width: 95%;
     height:100%;
-    
 }
 #button{
     background-color: #4aaaa5;
@@ -169,7 +151,6 @@ h1{
     margin-left:10%;
     padding:5%;
     width:110%;
-    
     position: absolute;
     top: 70%;
     left: 40%;
@@ -178,18 +159,14 @@ h1{
 #lastitem{
     border-bottom-width:50px;
 }
-
 /*footer for layout*/
 .push{
     height:30px;
 }
 .footer{
-    
-    
     margin-top: 10%;
     margin-left:-1%;
     margin-right:-1%;
-
     width: 102%;
     background-color: #666666;
     padding: 0.5%;
@@ -211,7 +188,6 @@ h1{
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     font-size:12px;
     color:#ffffff;
-    
     transform: translate(0%, 90%);
 }
 
