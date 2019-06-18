@@ -1,7 +1,7 @@
 body{
     background: url(../images/dark-honeycomb.png);
     background-repeat: repeat;
-    
+    overflow-x:hidden;
 }
 /*header for layout*/
 .top{
@@ -78,17 +78,19 @@ h1{
 /*about me page*/
 .bio{
     min-height:100%;
-    margin-left:8%;
-    margin-right: 8%;
+    margin-left:13%;
+    margin-right: 10%;
     margin-bottom: -25px;
     top: 105px;;
     width: 960px;
-    overflow: auto;
+    max-width:100%;
+    overflow: hidden;
     clear: both;
-    position: relative;
+    position: auto;
     top: -50%;
     background-color: #ffffff;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
+    text-align: center;
 }
 #abouttitle{
     color:#4aaaa5;
@@ -194,7 +196,7 @@ h1{
     padding-top: 1%;
     padding-bottom:0;
     vertical-align: middle;
-    overflow:hidden;
+    overflow:fixed;
     border-top-width: 0.5em;
     border-top-style: solid;
     border-top-color:#4aaaa5;
