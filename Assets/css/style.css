@@ -2,6 +2,7 @@ body{
     background: url(../images/dark-honeycomb.png);
     background-repeat: repeat;
     overflow-x:hidden;
+    max-width:1366px;
 }
 /*header for layout*/
 .top{
@@ -74,7 +75,7 @@ h1{
     margin-bottom: -25px;
     top: 105px;;
     width: 960px;
-    max-width:100%;
+    max-width:960px;
     overflow: hidden;
     clear: both;
     position: auto;
