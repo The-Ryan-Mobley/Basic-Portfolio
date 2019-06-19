@@ -17,7 +17,8 @@ body{
     padding: 3.5%;
     border-bottom-width: 1%;
     border-block-end-style: solid;
-    border-bottom-color: #cccccc; 
+    border-bottom-color: #cccccc;
+    text-align: center;
 }
 .Title{
     background-color: #4aaaa5;
