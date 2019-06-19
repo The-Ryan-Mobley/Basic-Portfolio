@@ -3,13 +3,13 @@ body{
     background-repeat: repeat;
     overflow-x:hidden;
     max-width:1366px;
+    text-align: center;
 }
 /*header for layout*/
 .top{
     margin-top: -0.6%;
     margin-left:-0.6%;
     margin-right:-0.6%;
-    max-width: 100%;
     overflow: fixed;
     background-color: #ffffff;
     padding: 3.5%;
