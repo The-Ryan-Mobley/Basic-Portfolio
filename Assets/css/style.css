@@ -35,6 +35,9 @@ body{
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     position: relative;
 }
+.contactlink:hover{
+    color: #4aaaa5;
+}
 #endcontact{
     float:left;
     padding:5px 5px 5px 0px;
