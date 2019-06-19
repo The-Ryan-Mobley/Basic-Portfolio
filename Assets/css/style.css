@@ -12,6 +12,7 @@ body{
     margin-left:-0.6%;
     margin-right:-0.6%;
     overflow: fixed;
+    position:auto;
     background-color: #ffffff;
     padding: 3.5%;
     border-bottom-width: 1%;
