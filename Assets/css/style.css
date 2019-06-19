@@ -4,6 +4,7 @@ body{
     overflow-x:hidden;
     max-width:1366px;
     text-align: center;
+    
 }
 /*header for layout*/
 .top{
@@ -91,7 +92,7 @@ h1{
     padding-left: 2%;
     border-bottom-width: 1%;
     border-bottom-style: solid;
-    border-bottom-color:#777777;
+    border-bottom-color:#cccccc;
     border-left-width: 4%;
     border-left-style: solid;
     border-left-color:#ffffff;
