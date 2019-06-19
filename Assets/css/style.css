@@ -1,10 +1,7 @@
 body{
     background: url(../images/dark-honeycomb.png);
     background-repeat: repeat;
-    overflow-x:hidden;
     max-width:1366px;
-    text-align: center;
-    
 }
 /*header for layout*/
 .top{
@@ -77,8 +74,8 @@ h1{
     margin-left:13%;
     margin-right: 10%;
     margin-bottom: -25px;
-    top: 105px;;
-    width: 960px;
+   
+    width: 100%;
     max-width:960px;
     overflow: hidden;
     clear: both;
@@ -157,9 +154,11 @@ h1{
     font-size: 20px;
     margin-left:10%;
     padding:5%;
+    padding-top:10%;
+    padding-bottom:10%;
     width:110%;
     position: absolute;
-    top: 70%;
+    top: 80%;
     left: 40%;
     transform: translate(-50%, -50%);
 }
