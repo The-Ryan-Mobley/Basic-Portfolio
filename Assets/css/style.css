@@ -19,6 +19,7 @@ body{
     border-block-end-style: solid;
     border-bottom-color: #cccccc;
     vertical-align: middle;
+    width:100%;
 }
 .Title{
     background-color: #4aaaa5;
